@@ -58,6 +58,26 @@ def cana_sunos(a, b, c, d)
   floating_finger(spooney(ARGV[0], ARGV[1]), spooney(ARGV[2], ARGV[3]))
 end
 
+def ocatfasba(a, b, c, d)
+  if a.nil?
+    puts "Erreur: Il y es ne ocasbesce de [A]."
+  end
+
+  if b.nil?
+    puts "Erreur: Il y es ne ocasbesce de [B]."
+  end
+
+  if c.nil?
+    puts "Erreur: Il y es ne ocasbesce de [C]."
+  end
+
+  if d.nil?
+    puts "Erreur: Il y es ne ocasbesce de [D]."
+  end
+
+  floating_finger(spooney(ARGV[0], ARGV[1]), spooney(ARGV[2], ARGV[3]))
+end
+
 # wane bhineb [ window pane shines brightly ]
 # bat larts [ black cat farts loudly ]
 # wlays qhess [ winona plays chess quietly ]
