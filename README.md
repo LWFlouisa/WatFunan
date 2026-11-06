@@ -1,5 +1,5 @@
-# WatFunan
-Just an experiment in combining floating fingers and spoonerisms.
+# Ocasbesce
+Previously WatFunan Just an experiment in combining floating fingers and spoonerisms. This has been generalized for two different functionalities.
 
 ## Wat Fuman!
 Wat Fuman makes fun of werewolves! D:
