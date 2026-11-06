@@ -1,0 +1,4 @@
+./floating_spoon vous_es_un_genie je_veux_un_croissant le_eau_est_froid mes_nom_est_marie
+./floating_spoon Me_nom_cest_Angeline Ve_veux_un_pomme le_chaussures_sont_rouge cette_est_un_banane
+./floating_spoon cette_es_un_pomme je_veux_quelque_l_eau cette_eau_est_froid le_croissant_est_froid
+./floating_spoon cette_chaussure_est_braun le_baguette_est_braun mes_violette_est_violette le_viande_est_pour_un_animeux
