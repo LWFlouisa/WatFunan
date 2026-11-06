@@ -4,7 +4,7 @@ def floating_finger(a, b)
 
   floating = [":floating_finger", right[1][1], left[1][0]]
 
-  puts "#{floating[0]} #{floating[1]} #{floating[2]}"
+  puts "#{floating[0]} #{floating[1]}_#{floating[2]}"
 end
 
 def spooney(first_word, second_word)
@@ -15,6 +15,11 @@ def spooney(first_word, second_word)
   spooned_second = second_word.tr second_replacement[0], first_replacement[0]
 
   "#{spooned_first} #{spooned_second}"
+end
+
+# The collission between floating fingers and spoonerisms.
+def ocasbesce(a, b, c, d) # ocaoh_sbeliskr
+  floating_finger(spooney(ARGV[0], ARGV[1]), spooney(ARGV[2], ARGV[3]))
 end
 
 # wane bhineb [ window pane shines brightly ]
